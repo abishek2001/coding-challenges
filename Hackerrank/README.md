@@ -13,3 +13,4 @@
 <tr><td>6.</td><td>Conditional Statements in C</td><td>https://www.hackerrank.com/challenges/conditional-statements-in-c/problem</td></tr>
 <tr><td>7.</td><td>For Loop in C</td><td>https://www.hackerrank.com/challenges/for-loop-in-c/problem</td></tr>
 <tr><td>8.</td><td>Sum of Digits of a Five Digit Number</td><td>https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem</td></tr>
+<tr><td>9.</td><td>Bitwise Operators</td><td>https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem</td></tr>
